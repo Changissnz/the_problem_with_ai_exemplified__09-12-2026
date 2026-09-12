@@ -189,7 +189,7 @@ By using a short prompt for an open-ended response, I wanted to see what the LLM
 Ernest Hemingway. The sophistry from academia cannot be found in this response. It's just that the plot and sentiments 
 the words evoke hit like a blunt object. If it was a human writer, I would say they are a flat and disaffected person 
 trying to regain some human soul by forcibly making themself write this story. It's just there's not much there in points. 
-Very mechanical. Like how Amazon came up with Mechanical Turk, maybe ChatGPT has mastered the art of Mechanical Ernest Hemingway. 
+Very mechanical. Like how Amazon Corporation came up with Mechanical Turk, maybe ChatGPT has mastered the art of Mechanical Ernest Hemingway. 
 
 -----------------------------------------------------------------------------------------------------------
 
