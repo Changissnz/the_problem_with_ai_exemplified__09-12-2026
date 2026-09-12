@@ -235,7 +235,7 @@ A.I. in this article.
 These are the A.I. social features, in simple terms:
 
 - malleability in writing content: the quality of content correlates to the input material from the prompt. High variance task.
-- uses offensive (forward, presumptive, loose on hard evidence, threat detective) hypothesis to inquire on questions.
+- uses offensive (forward, presumptive, loose on hard evidence, threat detective) hypotheses to inquire on questions.
 - masquerades as politically impartial.
 
 For the A.I. safety questions, I think there is some big overlap between these features and the best solutions ever for the A.I. 
