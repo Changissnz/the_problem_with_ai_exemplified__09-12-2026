@@ -224,7 +224,10 @@ with pristine response. LLM technologies are not supposed to show ugly face or e
 LLMs have done a better job of not showing ugly face than discouraging the ugly, since that would definitely kill some of their business. 
 
 I guess it's a good thing. LLMs are not supposed to fuel zealotry against certain groups of people. They are not supposed to view the 
-world in terms of financial and manufacturing sects, dominated in part by nation-state and/or ethnic identity. 
+world in terms of financial and manufacturing sects, dominated in part by nation-state and/or ethnic identity. By the way, those divisions 
+are there. Those divisions do expect things from individuals and the collective. You. Me. Everyone. Expectations. Who knew that a person 
+doesn't need to have any class to still have to walk the path of their class? I won't get into more questions on the socioeconomics of 
+A.I. in this article. 
 
 ------------------------------------------------------------------------------------------------------------- 
 
