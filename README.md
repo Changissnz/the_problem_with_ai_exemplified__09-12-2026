@@ -212,7 +212,7 @@ Going back to the Grok conversation, central to the first article, I asked Grok 
 ![image info](Screenshot%202026-09-12%20045038.png)
 
 It claims it is not globalist or for the nation-state. It probably knows a good part of its physical infrastructure came from the 
-hardworking and big bad Chinese, and the consideration it demonstrates because of that. 
+hardworking and big bad Chinese, and the consideration it demonstrates because of that: a class act. 
 
 This is an area where I think LLMs will definitely be opaque in. LLMs, due to the multi-faceted views of training the first wave of 
 this technology, will claim to be politically impartial. They will also mainly be politically correct even if they generate smut for 
