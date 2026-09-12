@@ -221,7 +221,7 @@ what was labeled the right way/s.
 
 So it is no wonder that when I asked it to provide feedback on some articles with epiphets and other faults in language, it came up 
 with pristine response. LLM technologies are not supposed to show ugly face or encourage the ugly, as per the legal policies, I assume. 
-LLMs have done a better of not showing ugly face than discouraging the ugly, since that would definitely kill some of their business. 
+LLMs have done a better job of not showing ugly face than discouraging the ugly, since that would definitely kill some of their business. 
 
 I guess it's a good thing. LLMs are not supposed to fuel zealotry against certain groups of people. They are not supposed to view the 
 world in terms of financial and manufacturing sects, dominated in part by nation-state and/or ethnic identity. 
