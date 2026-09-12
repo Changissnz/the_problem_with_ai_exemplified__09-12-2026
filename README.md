@@ -8,7 +8,7 @@ In the [first](https://github.com/Changissnz/the_problem_with_ai_exemplified__09
 literary analytics provided by LLM technology, which definitely demonstrated it goes by certain political policies. From the perspective that 
 A.I. is dangerous and poses great harm through its potential of great knowledge, great training, the case I gave is impressive, showcasing that 
 YES: there are "safety guardrails" with A.I. A note on the side, some of the mannerisms the mainstream LLMs exhibit, in social/political/economic 
-matters, is very characteristically academic. Modern academia that has donned a kind of political correctness. There are teachers that provide 
+matters, are very characteristically academic. Modern academia that has donned a kind of political correctness. There are teachers that provide 
 the material and the lessons without the ego, and then there's that one impostor that has to play the role of Political Police. That guy that gets 
 in the middle between two people but the catch is... there was never a physical altercation in the first place. The guy just didn't want there 
 to be opinions that could spin out of control, posing issues on the kind of socioeconomic decor he was posing in front of young and impressionable 
